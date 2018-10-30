@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+
+    <string-array name="set_device_config">
+        <item>baby_picture</item>
+        <item>baby_name</item>
+        <item>baby_birthday</item>
+        <item>baby_sex</item>
+        <item>protect_eye_time</item>
+        <item>eye_use_time</item>
+        <item>eye_rest_time</item>
+        <item>night_rest_mode</item>
+        <item>sleep_time</item>
+        <item>get_up_time</item>
+    </string-array>
+
+    <!-- 设置菜单 -->
+
+    <string-array name="wifi_status">
+        <item msgid="1922181315419294640"></item>
+        <item msgid="8934131797783724664">"正在扫描..."</item>
+        <item msgid="8513729475867537913">"正在连接..."</item>
+        <item msgid="515055375277271756">"正在进行身份验证..."</item>
+        <item msgid="1943354004029184381">"正在获取 IP 地址..."</item>
+        <item msgid="4221763391123233270">"已连接"</item>
+        <item msgid="624838831631122137">"已暂停"</item>
+        <item msgid="7979680559596111948">"正在断开连接..."</item>
+        <item msgid="1634960474403853625">"密码错误已断开连接"</item>
+        <item msgid="746097431216080650">"失败"</item>
+        <item msgid="6367044185730295334">"已阻止"</item>
+        <item msgid="503942654197908005">"暂时关闭状况不佳的连接"</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item msgid="7714855332363650812"></item>
+        <item msgid="8878186979715711006">"正在扫描..."</item>
+        <item msgid="355508996603873860">"正在连接到 <xliff:g id="NETWORK_NAME">%1$s</xliff:g>..."</item>
+        <item msgid="554971459996405634">"正在通过 <xliff:g id="NETWORK_NAME">%1$s</xliff:g> 进行身份验证..."</item>
+        <item msgid="7928343808033020343">"正在从 <xliff:g id="NETWORK_NAME">%1$s</xliff:g> 获取 IP 地址..."</item>
+        <item msgid="8937994881315223448">"已连接到 <xliff:g id="NETWORK_NAME">%1$s</xliff:g>"</item>
+        <item msgid="1330262655415760617">"已暂停"</item>
+        <item msgid="7698638434317271902">"正在断开与 <xliff:g id="NETWORK_NAME">%1$s</xliff:g> 的连接..."</item>
+        <item msgid="197508606402264311">"已断开连接"</item>
+        <item msgid="8578370891960825148">"失败"</item>
+        <item msgid="5660739516542454527">"已阻止"</item>
+        <item msgid="1805837518286731242">"暂时关闭状况不佳的连接"</item>
+    </string-array>
+
+    <!-- 添加网络 安全性 -->
+    <string-array name="wifi_safe">
+        <item>无</item>
+        <item>WEP</item>
+        <item>WPA/WPA2 PSK</item>
+        <item>802.1x EAP</item>
+    </string-array>
+
+    <!--Launcher首页标题-->
+    <!--产品编码产品型号-->
+    <string-array name="productcode">
+        <item>C111</item>
+    </string-array>
+
+    <string-array name="choice_gravatar">
+        <item>相机</item>
+        <item>相册</item>
+    </string-array>
+
+    <string-array name="xiaoxi_dance">
+        <item>生日快乐</item>
+        <item>妈妈的吻</item>
+        <item>小苹果</item>
+        <item>铃儿响叮当</item>
+        <item>风吹麦浪</item>
+        <item>幸福拍手歌</item>
+    </string-array>
+
+
+
+    <string-array name="minute_display">
+        <item>00</item>
+        <item>01</item>
+        <item>02</item>
+        <item>03</item>
+        <item>04</item>
+        <item>05</item>
+        <item>06</item>
+        <item>07</item>
+        <item>08</item>
+        <item>09</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+        <item>32</item>
+        <item>33</item>
+        <item>34</item>
+        <item>35</item>
+        <item>36</item>
+        <item>37</item>
+        <item>38</item>
+        <item>39</item>
+        <item>40</item>
+        <item>41</item>
+        <item>42</item>
+        <item>43</item>
+        <item>44</item>
+        <item>45</item>
+        <item>46</item>
+        <item>47</item>
+        <item>48</item>
+        <item>49</item>
+        <item>50</item>
+        <item>51</item>
+        <item>52</item>
+        <item>53</item>
+        <item>54</item>
+        <item>55</item>
+        <item>56</item>
+        <item>57</item>
+        <item>58</item>
+        <item>59</item>
+    </string-array>
+
+    <string-array name="sleep_display">
+        <item>00</item>
+        <item>01</item>
+        <item>02</item>
+        <item>03</item>
+        <item>04</item>
+        <item>05</item>
+        <item>06</item>
+        <item>07</item>
+        <item>08</item>
+        <item>09</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+    </string-array>
+
+    <string-array name="health_title">
+        <item>健康数据</item>
+        <item>健康设备</item>
+    </string-array>
+
+    <string-array name="menu">
+        <item>人脸识别</item>
+        <item>我的家人</item>
+        <item>绑定设备</item>
+        <item>无线局域网</item>
+        <item>蓝牙</item>
+        <item>通用</item>
+        <item>家长设置</item>
+    </string-array>
+
+
+    <!--通过FrameAnimation播放的图片-->
+
+    <array name="alilo_lock_rabbit">
+        <item>@drawable/alilo_lock_anim_00</item>
+        <item>@drawable/alilo_lock_anim_01</item>
+        <item>@drawable/alilo_lock_anim_02</item>
+        <item>@drawable/alilo_lock_anim_03</item>
+        <item>@drawable/alilo_lock_anim_04</item>
+        <item>@drawable/alilo_lock_anim_05</item>
+        <item>@drawable/alilo_lock_anim_06</item>
+        <item>@drawable/alilo_lock_anim_07</item>
+        <item>@drawable/alilo_lock_anim_08</item>
+        <item>@drawable/alilo_lock_anim_09</item>
+        <item>@drawable/alilo_lock_anim_10</item>
+        <item>@drawable/alilo_lock_anim_11</item>
+        <item>@drawable/alilo_lock_anim_12</item>
+        <item>@drawable/alilo_lock_anim_13</item>
+        <item>@drawable/alilo_lock_anim_14</item>
+        <item>@drawable/alilo_lock_anim_15</item>
+        <item>@drawable/alilo_lock_anim_16</item>
+        <item>@drawable/alilo_lock_anim_17</item>
+        <item>@drawable/alilo_lock_anim_18</item>
+        <item>@drawable/alilo_lock_anim_19</item>
+        <item>@drawable/alilo_lock_anim_20</item>
+        <item>@drawable/alilo_lock_anim_21</item>
+        <item>@drawable/alilo_lock_anim_22</item>
+        <item>@drawable/alilo_lock_anim_23</item>
+        <item>@drawable/alilo_lock_anim_24</item>
+    </array>
+
+    <array name="alilo_unlock_rabbit">
+        <item>@drawable/alilo_unlock_anim_00</item>
+        <item>@drawable/alilo_unlock_anim_01</item>
+        <item>@drawable/alilo_unlock_anim_02</item>
+        <item>@drawable/alilo_unlock_anim_03</item>
+        <item>@drawable/alilo_unlock_anim_04</item>
+        <item>@drawable/alilo_unlock_anim_05</item>
+        <item>@drawable/alilo_unlock_anim_06</item>
+        <item>@drawable/alilo_unlock_anim_07</item>
+        <item>@drawable/alilo_unlock_anim_08</item>
+        <item>@drawable/alilo_unlock_anim_09</item>
+        <item>@drawable/alilo_unlock_anim_10</item>
+        <item>@drawable/alilo_unlock_anim_11</item>
+        <item>@drawable/alilo_unlock_anim_12</item>
+        <item>@drawable/alilo_unlock_anim_13</item>
+        <item>@drawable/alilo_unlock_anim_14</item>
+        <item>@drawable/alilo_unlock_anim_15</item>
+        <item>@drawable/alilo_unlock_anim_16</item>
+    </array>
+
+    <array name="alilo_lock_finger">
+        <item>@drawable/alilo_finger_anim_00</item>
+        <item>@drawable/alilo_finger_anim_01</item>
+        <item>@drawable/alilo_finger_anim_02</item>
+        <item>@drawable/alilo_finger_anim_03</item>
+        <item>@drawable/alilo_finger_anim_04</item>
+        <item>@drawable/alilo_finger_anim_05</item>
+        <item>@drawable/alilo_finger_anim_06</item>
+        <item>@drawable/alilo_finger_anim_07</item>
+        <item>@drawable/alilo_finger_anim_08</item>
+        <item>@drawable/alilo_finger_anim_09</item>
+        <item>@drawable/alilo_finger_anim_10</item>
+        <item>@drawable/alilo_finger_anim_11</item>
+        <item>@drawable/alilo_finger_anim_12</item>
+        <item>@drawable/alilo_finger_anim_13</item>
+        <item>@drawable/alilo_finger_anim_14</item>
+        <item>@drawable/alilo_finger_anim_15</item>
+        <item>@drawable/alilo_finger_anim_16</item>
+        <item>@drawable/alilo_finger_anim_17</item>
+
+    </array>
+
+    <array name="alilo_lock_cloud">
+        <item>@drawable/alilo_cloud_anim_00</item>
+        <item>@drawable/alilo_cloud_anim_01</item>
+        <item>@drawable/alilo_cloud_anim_02</item>
+        <item>@drawable/alilo_cloud_anim_03</item>
+        <item>@drawable/alilo_cloud_anim_04</item>
+        <item>@drawable/alilo_cloud_anim_05</item>
+        <item>@drawable/alilo_cloud_anim_06</item>
+        <item>@drawable/alilo_cloud_anim_07</item>
+        <item>@drawable/alilo_cloud_anim_08</item>
+        <item>@drawable/alilo_cloud_anim_09</item>
+        <item>@drawable/alilo_cloud_anim_10</item>
+        <item>@drawable/alilo_cloud_anim_11</item>
+        <item>@drawable/alilo_cloud_anim_12</item>
+        <item>@drawable/alilo_cloud_anim_13</item>
+        <item>@drawable/alilo_cloud_anim_14</item>
+        <item>@drawable/alilo_cloud_anim_15</item>
+        <item>@drawable/alilo_cloud_anim_16</item>
+        <item>@drawable/alilo_cloud_anim_17</item>
+        <item>@drawable/alilo_cloud_anim_18</item>
+        <item>@drawable/alilo_cloud_anim_19</item>
+        <item>@drawable/alilo_cloud_anim_20</item>
+        <item>@drawable/alilo_cloud_anim_21</item>
+        <item>@drawable/alilo_cloud_anim_22</item>
+        <item>@drawable/alilo_cloud_anim_23</item>
+
+    </array>
+
+
+
+</resources>
